@@ -247,8 +247,11 @@ Can be used to control multiple devices at once. If you are the Owner and comman
 
 ## Special Actions
 
-### erm i forget (it's last from main book)
-*  Marks requried: n/a
+### Matrix Search
+
+See p241
+
+* Marks requried: n/a
 * Test: Simple Computer + Intuition [Data Processing]
 
 
