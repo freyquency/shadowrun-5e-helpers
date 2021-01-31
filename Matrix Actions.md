@@ -2,7 +2,7 @@
 
 Desired by char sheet:
 
-* matrix skill
+* Title
 * Attribute
 * Skill
 * Limit
@@ -30,6 +30,7 @@ Change targets icon. Doesn't affect Matrix Perception actions.
 
 * Marks Required: Owner
 * Test: None (Data Processing Action)
+
 
 ### Check Overwatch Score
 
